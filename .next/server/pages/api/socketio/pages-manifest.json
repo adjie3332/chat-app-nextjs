@@ -1,0 +1,3 @@
+{
+  "/api/socketio": "pages/api/socketio.js"
+}
